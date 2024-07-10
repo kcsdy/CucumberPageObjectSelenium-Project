@@ -19,7 +19,7 @@ public class SeleniumDriver {
 	
 	private static WebDriverWait waitDriver;
 	
-	private Properties config = new Properties();
+	public static Properties config = new Properties();
 	
 	public static Properties OR = new Properties();
 	
